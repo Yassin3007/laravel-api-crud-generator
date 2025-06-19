@@ -1,5 +1,5 @@
 {
-    "name": "Yassin307/laravel-api-crud-generator",
+    "name": "yassin-ahmed/laravel-api-crud-generator",
     "description": "A comprehensive CRUD generator for Laravel API development",
     "keywords": ["laravel", "crud", "api", "generator", "artisan"],
     "type": "library",
