@@ -8,6 +8,7 @@ use Illuminate\Support\Facades\File;
 
 class CrudGenerateCommand extends Command
 {
+
     protected $signature = 'crud:generate {name} {--fields=} {--relations=} {--force}';
 
     protected $description = 'Generate a complete CRUD API for a model';
