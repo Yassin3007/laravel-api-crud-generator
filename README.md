@@ -299,7 +299,7 @@ If you encounter any issues or have questions:
 
 ## 🙏 Credits
 
-Created by [Yassin](https://github.com/yassin)
+Created by [Yassin](https://github.com/Yassin3007)
 
 ---
 
